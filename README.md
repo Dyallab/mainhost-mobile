@@ -1,11 +1,9 @@
 # MainHost Mobile releases
 
-Public download host for the MainHost Android app (BETA). The source lives in
-the private `Dyallab/mainhost` repository, under `packages/mobile`.
+Public download host for the MainHost Android app (BETA).
 
-- Every release is an EAS build of the `preview` profile (internal distribution).
-- Assets are signed by the EAS Android keystore. Each release lists its SHA-256
-  and the minimum Android version.
+- Every release is a signed build. Each one lists its SHA-256 and the minimum
+  Android version.
 - The app asks for login like the web. Downloading the APK grants no access.
 - The APK is attached to a release, not committed to this repository.
 
