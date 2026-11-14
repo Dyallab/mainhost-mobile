@@ -2,6 +2,8 @@
 
 Public download host for the MainHost Android app (BETA).
 
+Release history: [CHANGELOG.md](./CHANGELOG.md).
+
 - Every release is a signed build. Each one lists its SHA-256 and the minimum
   Android version.
 - The app asks for login like the web. Downloading the APK grants no access.
